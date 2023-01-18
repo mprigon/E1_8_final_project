@@ -4,6 +4,7 @@
     background-color: black;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+
 }
 
 .nav-link {
@@ -12,7 +13,7 @@
 
 }
 
-.nav-title {
+.nav-logo {
     font-size: xx-large;
     color: white;
 }
@@ -24,13 +25,13 @@ table.nav-all {
 
 table.nav-all td {
     width: 25%; /* Ширина ячеек */
-    text-align: center;
+    text-align: right;
 }
 
 table.birds-all {
     background-color: green;
     border: 2px;
-    text-align: left;
+
 }
 
 a:link {
