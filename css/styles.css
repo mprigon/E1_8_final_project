@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+.nav-item {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-link {
+    font-size: x-large;
+    color: white;
+
+}
+
+.nav-title {
+    font-size: xx-large;
+    color: white;
+}
+
+table.nav-all {
+    width:  100%; /* Ширина таблицы */
+    border-spacing: 0; /* Расстояние между ячейками */
+}
+
+table.nav-all td {
+    width: 25%; /* Ширина ячеек */
+    text-align: center;
+}
+
+table.birds-all {
+    background-color: green;
+    border: 2px;
+    text-align: left;
+}
+
+a:link {
+    color: #0000d0; /* Цвет ссылок */
+    padding: 2px; /* Поля вокруг текста */ 
+}
+
+a:hover {
+    background: #105635; /* Цвет фона под ссылкой */ 
+    color: #ffe; /* Цвет ссылки */ 
+}
+
+p.text {
+    font-size: x-large;
+}
+
+.footer-items {
+    background-color: rgb(97, 197, 152);
+    color: rgb(111, 3, 3);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+
+}
